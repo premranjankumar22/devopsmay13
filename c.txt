@@ -1,8 +1,8 @@
 learning git process
 
-merge with conflicts
+merge with confl
 
-learning git
+learning bash
 
 today is 13th may
 learning branching

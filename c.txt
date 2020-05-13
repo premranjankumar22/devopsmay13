@@ -1,5 +1,6 @@
 learning git process
 
+merge with conflicts
 
 learning git
 

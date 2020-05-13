@@ -1,3 +1,6 @@
 learning git process
 
 learning branching
+
+
+modified content in bi branch

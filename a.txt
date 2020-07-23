@@ -7,3 +7,5 @@ change
 learning stashing
 
 learning poll scm
+
+git
